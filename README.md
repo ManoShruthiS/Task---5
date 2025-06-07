@@ -3,9 +3,8 @@
 This task focuses on implementing Decision Trees and Random Forests using Scikit-learn and visualizing the decision tree with Graphviz.
 
 ## Contents
-- decision_tree_random_forest.ipynb: Jupyter Notebook with code for training, evaluation, and visualization.
+- Task - 5.ipynb: Jupyter Notebook with code for training, evaluation, and visualization.
 - heart.csv: Dataset used (Heart Disease Dataset).
-- screenshots/: Folder containing relevant screenshots.
 - README.md: This file.
 
 ## Steps Implemented
